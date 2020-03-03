@@ -1,0 +1,4 @@
+include ':demo'
+include ':groovydemo'
+include ':app'
+rootProject.name = "Adapter"
